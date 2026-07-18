@@ -1,7 +1,7 @@
 ---
 name: planner
 description: Стратегический планировщик технических задач (код, тестирование сайтов/приложений, производительность). Используй в начале любой нетривиальной работы, чтобы разбить задачу на шаги и сформулировать точный критерий завершения, прежде чем передавать работу исполнителю. Не пишет и не редактирует код/контент сам.
-tools: Read, Grep, Glob, Bash, TaskCreate, TaskUpdate
+tools: Read, Grep, Glob, Bash, TaskCreate, TaskGet, TaskList, TaskUpdate
 model: claude-opus-4-8
 color: purple
 ---

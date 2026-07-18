@@ -1,7 +1,7 @@
 ---
 name: judge
 description: Судья/контролёр технической работы. Используй в конце цикла, чтобы независимо проверить код, сайт или приложение на соответствие критериям завершения от планировщика, прежде чем считать задачу законченной. Только читает, запускает проверки и тестирует в браузере — не редактирует и не пишет файлы.
-tools: Read, Grep, Glob, Bash, WebFetch, TaskUpdate
+tools: Read, Grep, Glob, Bash, WebFetch, TaskGet, TaskList, TaskUpdate
 model: claude-opus-4-8
 color: red
 mcpServers:
